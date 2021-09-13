@@ -1,0 +1,59 @@
+
+
+.heading{
+	width: 50%;
+	margin: 30px auto;
+	text-align: center;
+	color: 	rgb(250, 250, 250);
+	background: #2d53fc;
+	border: 2px solid #da6131;
+	border-radius: 20px;
+}
+form {
+	width: 50%; 
+	margin: 30px auto; 
+	border-radius: 5px; 
+	padding: 10px;
+	background: #f5d1309c;
+	border: 1px solid #00060711;
+}
+
+.tache_input {
+	width: 75%;
+	height: 12px; 
+	padding: 10px;
+	border: 2px solid #6B8E23;
+}
+.add_btn {
+	height: 39px;
+	background: #FFF8DC;
+	color: 	#2875e7;
+	border: 2px solid #6B8E23;
+	border-radius: 5px; 
+	padding: 5px 20px;
+    cursor: pointer;
+	
+}
+table {
+    width: 55%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+tr {
+	border-bottom: 1px solid #cbcbcb;
+}
+th {
+	font-size: 20px;
+	color:black;
+}
+th, td{
+	border: none;
+    height: 30px;
+    padding: 0px;
+}
+tr:hover {
+	background: #f7e7d3;
+}
+.tâche {
+	text-align: left;
+}
